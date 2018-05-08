@@ -8,9 +8,9 @@ feature_text: |
   Committed to eco-friendly products
 ---
 For inquiry, contact **Evan Bennett**.
- * Email: evancaac@gmail.com
+ * Email: info@envirotech.global
  * Phone: 1-614-623-2930
- * Address: 10999 Reed Hartment Highway, Suite 125, Cincinatti Ohio, 45242
+ * Address: 10999 Reed Hartman Highway, Suite 125, Cincinatti Ohio, 45242
 
 {% include site-form.html %}
 
