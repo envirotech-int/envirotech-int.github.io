@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="54.999996"
+   height="114.91026"
+   viewBox="0 0 54.999998 114.91026"
+   id="svg4784"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo1.svg">
+  <defs
+     id="defs4786">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4796"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4794"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-405.99988"
+     inkscape:cy="182.87779"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1034"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="false" />
+  <metadata
+     id="metadata4789">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-236.99988,-581.45195)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#009b52;stroke-width:4.91068554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 264.99199,583.90729 c 0.68122,0 24.55254,34.15509 24.55254,59.29741 0,25.14232 -23.87459,31.7957 -24.55254,31.7957 -0.68246,0 -25.53677,-6.65338 -25.53677,-31.7957 0,-25.14232 24.85881,-59.29741 25.53677,-59.29741 z"
+       id="path4792"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       inkscape:export-xdpi="10"
+       inkscape:export-ydpi="10" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#009b52;stroke-width:4.91068554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 264.99199,608.46058 0,87.90162"
+       id="path5342"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="10"
+       inkscape:export-ydpi="10" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#009b52;stroke-width:4.91068554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 264.99199,629.33124 254.67846,619.01849"
+       id="path5346"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="10"
+       inkscape:export-ydpi="10" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#009b52;stroke-width:4.91068554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 265.23617,656.58531 11.29399,-11.29412"
+       id="path5350"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="10"
+       inkscape:export-ydpi="10" />
+  </g>
+</svg>
